@@ -1,3 +1,4 @@
 name = "stream-worker"
 main = "src/index.ts"
 compatibility_date = "2025-06-25"
+compatibility_flags = ["nodejs_compat"]
