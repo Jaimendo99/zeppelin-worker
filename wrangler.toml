@@ -1,4 +1,8 @@
 name = "stream-worker"
 main = "src/index.ts"
-compatibility_date = "2025-06-25"
+account_id = "f925f40b795b13be2dd715c5f0618dea"
+compatibility_date = "2025-06-26"
 compatibility_flags = ["nodejs_compat"]
+
+[vars]
+CLOUDFLARE_ACCOUNT_ID = "f925f40b795b13be2dd715c5f0618dea"
